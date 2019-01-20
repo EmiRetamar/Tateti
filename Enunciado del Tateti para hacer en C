@@ -1,0 +1,5 @@
+Ta-Te-Ti: Se requiere un programa que permita jugar al Ta-Te-Ti. Controlando las siguientes características:
+• El sistema debe comenzar el juego indicando el jugador que debe jugar y debe alternar entre jugador 1 y jugador 2.
+• El usuario debe ingresar las coordenadas x e y donde se ubicará un “1” para el jugador 1 o un “2” para el jugador 2, si la casilla de las coordenadas indicadas está libre debe marcarlo con el numero indicado según el jugador que este jugando. Cuando la casilla de las coordenadas este ocupada debe mostrar un mensaje de error “El casillero está ocupado, por favor elija otro.”
+• El sistema debe permitir en todo momento ver el cuadro de juego (mostrarlo luego de cada elección).
+• El programa debe terminar cuando no queden celdas por completar (empate) o cuando se haya completado con las mismas fichas de un jugador una fila o una columna o una diagonal completa.
